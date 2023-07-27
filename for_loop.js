@@ -10,6 +10,16 @@
 //   console.log(friends[i]);
 // }
 
-for (let i = 1; i <= 10; i+=2){
-  console.log(i);
-}
+
+// let user = 24;
+
+// let ages = [24, 52, 63, 35, 36, 28, 24, 28, 48, 46, 50];
+
+// if (ages.includes(user)) {
+//   for (let i = 0; i < 5; i++){
+//     console.log("Hello");
+//   }
+// }
+
+
+
